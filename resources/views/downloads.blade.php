@@ -29,7 +29,7 @@
                     </div>
                 </div>
                 <!--end breadcrumb-->
-                
+
                 <div class="card radius-10">
                     <div class="card-body">
                       <div class="table-responsive">
@@ -54,7 +54,7 @@
                        </tr>
                        <tr>
                          <td>3</td>
-                         <td>Dashtrans - Bootstrap5 Admin Template</td>
+                         <td>Dashtrans - Ecomsexpert</td>
                          <td><a href="javascript:;" class="btn btn-sm btn-outline-primary">Download</a></td>
                        </tr>
                        <tr>
@@ -64,12 +64,12 @@
                        </tr>
                        <tr>
                          <td>5</td>
-                         <td>Dashtreme - Laravel 8+ Bootstrap5 Admin Template</td>
+                         <td>Dashtreme - Laravel 8+ Ecomsexpert</td>
                          <td><a href="javascript:;" class="btn btn-sm btn-outline-primary">Download</a></td>
                        </tr>
                        <tr>
                          <td>6</td>
-                         <td>Dashtreme - Multipurpose Bootstrap5 Admin Template</td>
+                         <td>Dashtreme - Multipurpose Ecomsexpert</td>
                          <td><a href="javascript:;" class="btn btn-sm btn-outline-primary">Download</a></td>
                        </tr>
                        <tr>
@@ -97,8 +97,8 @@
                       </div>
                     </div>
                 </div>
-                
-                
+
+
             </div>
         </div>
 		@endsection
